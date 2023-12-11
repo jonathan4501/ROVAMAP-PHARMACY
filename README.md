@@ -12,6 +12,6 @@ To run this code locally, you must
 **RUN THE FOLLOWING** 
   
 - 'pipenv shell' to activate the environmetn
-- 'python manage.py runserver' to run the server to navigate the code in your broswer
+- 'python manage.py runserver' to run the server to navigate the code in your browser
 
 # ROVAMAP_PHARMACY
